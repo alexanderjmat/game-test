@@ -1,0 +1,19 @@
+table, td {
+    border: 1px solid;
+}
+
+table {
+    width: 500px;
+    height: 500px;
+}
+
+th {
+    text-align: center;
+}
+
+div {
+    width: 80%;
+    height: 80%;
+    margin: 5px;
+    border-radius: 50%;
+}
